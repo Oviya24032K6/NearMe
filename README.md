@@ -151,11 +151,12 @@ Ranked within the top 200 Universities in Asia (QS - Asia University Rankings 20
 
 ![OUTPUT MAP](https://github.com/Oviya24032K6/NearMe/assets/147139999/3cba3147-f7cc-4ec2-be17-7734f0183396)
 
-![fortune park](<WhatsApp Image 2024-03-25 at 23.29.17_c0541ebc.jpg>)
-![palamathi hills](<WhatsApp Image 2024-03-25 at 23.32.55_67dceaa9.jpg>)
-![vit university](<WhatsApp Image 2024-03-25 at 23.34.23_b68b39aa.jpg>)
-![palar anaicut](<WhatsApp Image 2024-03-25 at 23.35.39_955ed383.jpg>)
-![karigiri lake](<WhatsApp Image 2024-03-25 at 23.31.27_0e68f68b.jpg>)
+![f1](https://github.com/Oviya24032K6/NearMe/assets/147139999/b86364ac-c5cd-4ece-96fd-6a21261cd1ff)
+![p hill](https://github.com/Oviya24032K6/NearMe/assets/147139999/a97e41c8-80f4-432f-a39e-6b6206290e4b)
+![vit](https://github.com/Oviya24032K6/NearMe/assets/147139999/81dcf3f3-c345-4111-aef4-b221ffc11a51)
+![palar anai](https://github.com/Oviya24032K6/NearMe/assets/147139999/5f3d5acd-a9d7-4201-bee6-c08c031e6504)
+![kari lake](https://github.com/Oviya24032K6/NearMe/assets/147139999/71f0af30-81fd-4597-807a-b128430a51d0)
+
 
 
 

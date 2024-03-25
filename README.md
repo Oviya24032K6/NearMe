@@ -149,7 +149,8 @@ Ranked within the top 200 Universities in Asia (QS - Asia University Rankings 20
 
 ### OUTPUT
 
-![output]](<OUTPUT MAP.jpg>)
+![OUTPUT MAP](https://github.com/Oviya24032K6/NearMe/assets/147139999/3cba3147-f7cc-4ec2-be17-7734f0183396)
+
 ![fortune park](<WhatsApp Image 2024-03-25 at 23.29.17_c0541ebc.jpg>)
 ![palamathi hills](<WhatsApp Image 2024-03-25 at 23.32.55_67dceaa9.jpg>)
 ![vit university](<WhatsApp Image 2024-03-25 at 23.34.23_b68b39aa.jpg>)

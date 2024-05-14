@@ -31,7 +31,6 @@ Execute the programs and publish them.
     <head>
         <title> NATIVE PLACE</title>
     </head>
-</html>
 <body>
     <h1 align="center">
         <font color="black"><b>VELLORE</b></font>
